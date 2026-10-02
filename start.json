@@ -1,0 +1,5 @@
+{
+  "name": "Latam M3U",
+  "version": "1.0.0",
+  "parameter": "content:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https%3A%2F%2Fiptv-org.github.io%2Fiptv%2Fregions%2Flatam.m3u&headline=Latam%20M3U"
+}
